@@ -1,2 +1,21 @@
-youporn.com
-uol.com.br
+0.0.0.0 pornhub.com
+0.0.0.0 www.pornhub.com
+0.0.0.0 xvideos.com
+0.0.0.0 www.xvideos.com
+0.0.0.0 xnxx.com
+0.0.0.0 www.xnxx.com
+0.0.0.0 xhamster.com
+0.0.0.0 www.xhamster.com
+0.0.0.0 redtube.com
+0.0.0.0 www.redtube.com
+0.0.0.0 youporn.com
+0.0.0.0 www.youporn.com
+0.0.0.0 tube8.com
+0.0.0.0 www.tube8.com
+0.0.0.0 pornhubpremium.com
+0.0.0.0 brazzers.com
+0.0.0.0 www.brazzers.com
+0.0.0.0 stripchat.com
+0.0.0.0 www.stripchat.com
+0.0.0.0 cam4.com
+0.0.0.0 www.cam4.com
